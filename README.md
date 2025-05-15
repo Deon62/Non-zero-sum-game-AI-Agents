@@ -7,7 +7,6 @@
 
 [🚀 Launch on Hugging Face](https://huggingface.co/spaces/chinesemusk/Non_zero-sumGame-Agents)
 
-![Uploading image.png…]()
 
 
 ---
