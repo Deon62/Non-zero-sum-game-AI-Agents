@@ -1,0 +1,26 @@
+round,usa_action,usa_reason,china_action,china_reason,usa_reward,china_reward,cumulative_usa,cumulative_china
+1,Cooperate,"Action: Cooperate
+
+Reason:  Maintaining open communication and seeking mutual de-escalation through targeted tariff reductions fosters greater international trade stability and avoids a potentially damaging trade war, outweighing the short-term benefits of retaliatory tariffs.",Defect,"Action: Defect
+
+Reason: Continued US inaction on tariffs necessitates a reciprocal response to protect domestic industries and assert China's economic interests, despite the risk of further global economic instability.",1,5,1,5
+2,Defect,"Action: Defect
+
+Reason: China's continued defection, following an initial US attempt at cooperation, necessitates a reciprocal response to protect US economic interests and discourage further aggressive trade practices.",Cooperate,"Action: Cooperate
+
+Reason:  While the US's cooperation last round was unexpected given their previous actions,  it presents an opportunity to de-escalate tensions and foster mutual economic benefit, reducing the risk of further instability and protecting domestic industries through increased trade rather than confrontation.",5,1,6,6
+3,Cooperate,"Action: Cooperate
+
+Reason:  China's cooperation last round, despite prior defection by the US, presents an opportunity to de-escalate tensions and pursue mutually beneficial trade agreements, fostering greater international stability and long-term economic cooperation.",Defect,"Action: Defect
+
+Reason: Continued US protectionism necessitates a reciprocal response to safeguard Chinese tech industries and deter further unilateral actions, prioritizing domestic stability even at the risk of escalating trade tensions.",1,5,7,11
+4,Defect,"Action: Defect
+
+Reason:  China's repeated defection demonstrates a lack of commitment to reciprocal trade agreements, necessitating a firm response to protect U.S. economic interests and deter further aggressive actions.",Defect,"Action: Defect
+
+Reason:  Continued US protectionism, despite prior cooperation, necessitates a reciprocal response to protect domestic industries and deter further unilateral actions that harm China's economic interests and regional influence.",-2,-2,5,9
+5,Defect,"Action: Defect
+
+Reason:  China's repeated defection, despite previous attempts at cooperation, necessitates a strong reciprocal response to deter further aggressive trade practices and protect U.S. economic interests.",Defect,"Action: Defect
+
+Reason: Continued US defection, prioritizing short-term gains over mutually beneficial trade, necessitates a reciprocal response to protect Chinese industries and assert economic leverage.",-2,-2,3,7
